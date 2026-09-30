@@ -1,0 +1,1 @@
+9e781d69f3c9031ef5f4ad99018a12f57faca85e9d6fc170224b305e601596c7  PerformStat-v1.0-macos-arm64.zip
